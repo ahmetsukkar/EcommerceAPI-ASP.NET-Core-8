@@ -1,5 +1,8 @@
 # 🛒 Ecommerce API - ASP.NET Core 8
 
+**Live API Documentation**: [Swagger UI](https://ecomapp.runasp.net/swagger/index.html)  
+**Live Frontend**: [EcomClient Angular App](https://ecom-client-angular19.vercel.app/shop)
+
 This is a fully functional **ECommerce API** project built with modern backend technologies. The project follows **Onion Architecture** principles for maintainability and scalability, and includes features like **JWT authentication**, **Redis caching**, and **Stripe integration** for payment processing.
 
 ---
@@ -42,6 +45,13 @@ Stripe integration is used to handle payments. Test keys are loaded securely via
 ## 🧠 Caching
 
 **Redis** is used to cache frequently accessed data, improving response times and reducing DB load.
+
+---
+
+## 🌐 Live Demo
+
+- Backend API (Swagger): [Swagger UI](https://ecomapp.runasp.net/swagger/index.html) 
+- Frontend App: [EcomClient Angular App](https://ecom-client-angular19.vercel.app/shop)
 
 ---
 
